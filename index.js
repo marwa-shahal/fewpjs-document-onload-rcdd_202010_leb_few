@@ -1,5 +1,6 @@
 // Your code goes here
 document.addEventListener("DOMContentLoaded", function() {
-  document.getElementById()
+ const tex=document.querySelector('#text');
+ tex.innerHTML=
   console.log("The DOM has loaded");
 });
